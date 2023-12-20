@@ -1,0 +1,29 @@
+.job-details{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+}
+.my-details-color{
+    color: #757575;;
+}
+
+.card-container{
+    background-image: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+}
+
+.icons{
+    color: #7E90FE
+}
+
+.job-title{
+    padding-bottom: 4rem;
+    background-color: #f4f4f4;
+}
+
+@media only screen and (max-width: 600px) {
+    .job-details{
+        margin-left: 1rem;
+        margin-right: 1rem;
+       
+    }
+  }

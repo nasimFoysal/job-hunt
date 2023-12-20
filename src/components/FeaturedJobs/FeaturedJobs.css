@@ -1,0 +1,18 @@
+
+.my-grey-color{
+    color: #757575;
+    font-size: 1rem;
+}
+
+.my-featured-job{
+    width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+    .my-featured-job{
+        width: 100%;
+    }
+    .my-featured-font{
+        font-size: 0.6rem;
+    }
+  }

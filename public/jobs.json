@@ -1,0 +1,218 @@
+[
+    {
+      "id": "t01",
+      "companyLogo": "/assets/google-1-1 1.png",
+      "jobTitle": "Software Developer",
+      "companyName": "Google",
+      "remoteOrOnsite": "Remote",
+      "address": "123 Pine Avenue, Unit 401, San Francisco",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "90k-100k",
+      "jobDescription": "Design, develop, and maintain software applications. Write clean, efficient, and well-documented code. Collaborate with team members to troubleshoot and solve technical problems.",
+      "jobResponsibility": "Responsibilities include developing new software features and maintaining existing code.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in software development.",
+      "contactInformation": {
+        "phone": "555-555-5555",
+        "email": "jobs@abcinc.com"
+      }
+    },
+    {
+      "id": "t02",
+      "companyLogo": "/assets/netflix-4 1.png",
+      "jobTitle": "Marketing Manager",
+      "companyName": "NetFlix",
+      "remoteOrOnsite": "Onsite",
+      "address": "890 Oak Street, Suite 303, Atlanta",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "75k-120k",
+      "jobDescription": "Develop and execute marketing strategies to drive business growth. Conduct market research, manage budgets, and oversee campaigns. Build and maintain relationships with clients and stakeholders.",
+      "jobResponsibility": "Responsibilities include developing marketing strategies and managing marketing campaigns.",
+      "educationalRequirements": "Bachelor's degree in Marketing or related field.",
+      "experiences": "5+ years of experience in marketing management.",
+      "contactInformation": {
+        "phone": "555-555-5555",
+        "email": "jobs@xyzcorp.com"
+      }
+    },
+    {
+      "id": "t03",
+      "companyLogo": "/assets/youtube.jpg",
+      "jobTitle": "Graphic Designer",
+      "companyName": "123 Designs",
+      "remoteOrOnsite": "Remote",
+      "address": "567 Spruce Road, Apt 205, Boston",
+      "fulltimeOrParttime": "Part-time",
+      "salary": "$30-$40/hour",
+      "jobDescription": "Design visual concepts and graphics for print and digital media. Collaborate with clients to understand their needs and develop creative solutions. Use industry-standard software to produce high-quality designs.",
+      "jobResponsibility": "Responsibilities include designing graphics and layouts for various projects.",
+      "educationalRequirements": "Bachelor's degree in Graphic Design or related field.",
+      "experiences": "2+ years of experience in graphic design.",
+      "contactInformation": {
+        "phone": "555-555-5555",
+        "email": "jobs@123designs.com"
+      }
+    },
+    {
+      "id": "t04",
+      "companyLogo": "/assets/tesla-9 1.png",
+      "jobTitle": "Sales Representative",
+      "companyName": "Tesla",
+      "remoteOrOnsite": "Onsite",
+      "address": "234 Chestnut Drive, Unit 102, Austin",
+      "fulltimeOrParttime": "Full-time",
+      "salary": "80k-140k",
+      "jobDescription": "Sell products and services to customers. Develop and maintain relationships with clients and generate leads. Meet or exceed sales goals through effective communication, negotiation, and problem-solving skills.",
+      "jobResponsibility": "Responsibilities include generating leads and closing sales deals.",
+      "educationalRequirements": "High school diploma or equivalent.",
+      "experiences": "1+ years of sales experience.",
+      "contactInformation": {
+        "phone": "555-555-5555",
+        "email": "jobs@abcsales.com"
+      }
+    },
+    {
+        "id": "t05",
+        "companyLogo": "/assets/Group 10021.png",
+        "jobTitle": "Product Manager",
+        "companyName": "AirBnB",
+        "remoteOrOnsite": "Onsite",
+        "address": "789 Willow Street, Suite 301, New York",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "65k-80k",
+        "jobDescription": "Oversee the development and launch of new products. Conduct market research and collaborate with cross-functional teams to ensure products meet customer needs and business objectives.",
+        "jobResponsibility": "Responsibilities include developing product strategy and managing the product development process.",
+        "educationalRequirements": "Bachelor's degree in Business Administration, Engineering or related field.",
+        "experiences": "5+ years of experience in product management.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@xyzproducts.com"
+        }
+      },
+      {
+        "id": "t06",
+        "companyLogo": "/assets/Instagram-logo-transparent-PNG.png",
+        "jobTitle": "Financial Analyst",
+        "companyName": "Instagram",
+        "remoteOrOnsite": "Remote",
+        "address": "456 Cherry Avenue, Apt 402, Denver",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "45k-90k",
+        "jobDescription": "Analyze financial data to provide insights and recommendations on business performance. Develop financial models and forecasts. Prepare reports and presentations for management and stakeholders.",
+        "jobResponsibility": "Responsibilities include analyzing financial data and preparing financial reports.",
+        "educationalRequirements": "Bachelor's degree in Finance or related field.",
+        "experiences": "2+ years of experience in financial analysis.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@abcfinancial.com"
+        }
+      },
+      {
+        "id": "t07",
+        "companyLogo": "/assets/Beautiful-Twitter-logo-icon-soci.png",
+        "jobTitle": "Human Resources Manager",
+        "companyName": "Twitter",
+        "remoteOrOnsite": "Onsite",
+        "address": "123 Birch Lane, Unit 201, Seattle",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "70k-90k",
+        "jobDescription": "Manage all aspects of the HR function, including recruitment, training and development, compensation and benefits, and employee relations. Ensure compliance with labor laws and company policies..",
+        "jobResponsibility": "Responsibilities include managing HR policies and procedures and overseeing employee relations.",
+        "educationalRequirements": "Bachelor's degree in Human Resources or related field.",
+        "experiences": "5+ years of experience in human resources management.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@123hr.com"
+        }
+      },
+      {
+        "id": "t08",
+        "companyLogo": "/assets/tencent.png",
+        "jobTitle": "Customer Service Representative",
+        "companyName": "TenCent Co",
+        "remoteOrOnsite": "Onsite",
+        "address": "890 Pine Street, Suite 500, Chicago",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "90k-95k",
+        "jobDescription": "Assist customers with inquiries, complaints, and requests via phone, email, or chat. Provide excellent customer service by addressing customer needs promptly and professionally. Maintain accurate records and follow-up with customers as needed.",
+        "jobResponsibility": "Responsibilities include answering customer inquiries and resolving issues.",
+        "educationalRequirements": "High school diploma or equivalent.",
+        "experiences": "1+ years of customer service experience.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@xyzservices.com"
+        }
+      },
+      {
+        "id": "t09",
+        "companyLogo": "/assets/optimum.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Optimum Technologies",
+        "remoteOrOnsite": "Onsite",
+        "address": "567 Maple Road, Apt 110, San Diego",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "100k-120k",
+        "jobDescription": "Design, develop, and maintain software systems. Write clean, efficient, and well-documented code. Collaborate with team members to troubleshoot and solve technical problems.",
+        "jobResponsibility": "Responsibilities include developing and maintaining software applications.",
+        "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in software development.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@abctech.com"
+        }
+      },
+      {
+        "id": "t10",
+        "companyLogo": "/assets/nextdeal.png",
+        "jobTitle": "Marketing Manager",
+        "companyName": "NextDeal Marketing",
+        "remoteOrOnsite": "Onsite",
+        "address": "234 Elmwood Drive, Unit 205, Miami",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "80k-90k",
+        "jobDescription": "Develop and implement marketing strategies to increase brand awareness and drive sales. Conduct market research, manage budgets, and oversee campaigns. Collaborate with cross-functional teams to achieve business objectives.",
+        "jobResponsibility": "Responsibilities include developing and executing marketing campaigns and managing the marketing budget.",
+        "educationalRequirements": "Bachelor's degree in Marketing or related field.",
+        "experiences": "5+ years of experience in marketing management.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@xyzmarketing.com"
+        }
+      },
+      {
+        "id": "t11",
+        "companyLogo": "/assets/giftcards.png",
+        "jobTitle": "Data Analyst",
+        "companyName": "Data Insights",
+        "remoteOrOnsite": "Remote",
+        "address": "456 Oakwood Avenue, Apt 302, Springfield",
+        "fulltimeOrParttime": "Full-time",
+        "salary": "88k-99k",
+        "jobDescription": "Analyze and interpret large data sets to provide insights and recommendations on business performance. Develop and maintain databases and data systems. Create reports and presentations for management and stakeholders.",
+        "jobResponsibility": "Responsibilities include analyzing large datasets and presenting insights to stakeholders.",
+        "educationalRequirements": "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field.",
+        "experiences": "2+ years of experience in data analysis.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@datainsights.com"
+        }
+      },
+      {
+        "id": "t12",
+        "companyLogo": "/assets/amazon.png",
+        "jobTitle": "Graphic Designer",
+        "companyName": "Amazon",
+        "remoteOrOnsite": "Onsite",
+        "address": "789 Cedar Street, Suite 101, Portland",
+        "fulltimeOrParttime": "Part-time",
+        "salary": "$30-$50 per hour",
+        "jobDescription": "Create visual concepts and designs for print and digital media. Collaborate with clients to understand their needs and develop creative solutions. Use industry-standard software to produce high-quality designs.",
+        "jobResponsibility": "Responsibilities include creating visual designs for various marketing materials.",
+        "educationalRequirements": "Bachelor's degree in Graphic Design or related field.",
+        "experiences": "2+ years of experience in graphic design.",
+        "contactInformation": {
+          "phone": "555-555-5555",
+          "email": "jobs@designco.com"
+        }
+      }
+    ]

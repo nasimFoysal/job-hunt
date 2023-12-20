@@ -1,0 +1,26 @@
+.my-header {
+  background-color: #f4f4f4;
+  padding-left: 10.5rem;
+  padding-right: 10.5rem;
+}
+
+.active {
+  text-decoration: none;
+
+  background-image: linear-gradient(90deg, #7e90fe 0%, #9873ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.inactive {
+  text-decoration: none;
+  color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  .my-header {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}

@@ -1,0 +1,26 @@
+[
+    {
+      "id": "j1",
+      "jobTitle": "Software Engineering",
+      "jobImage": "/assets/chip 1.png",
+      "numberOfJobs": 200
+    },
+    {
+      "id": "j2",
+      "jobTitle": "Data Science",
+      "jobImage": "/assets/accounts 1.png",
+      "numberOfJobs": 150
+    },
+    {
+      "id": "j3",
+      "jobTitle": "Marketing",
+      "jobImage": "/assets/business 1.png",
+      "numberOfJobs": 100
+    },
+    {
+      "id": "j4",
+      "jobTitle": "Web Development",
+      "jobImage": "/assets/social-media 1.png",
+      "numberOfJobs": 75
+    }
+  ]
